@@ -1,0 +1,9 @@
+{
+    "timeOffsetHours": 9,
+    "firefoxBinaryPath": "D:\\Mozilla Firefox\\firefox.exe",
+    
+    "clientSecretPath": "client_secret_124216030668-24duqtr62uqdtl21epoaueri218r8dph.apps.googleusercontent.com.json",
+    "credentialsPath": "credentials.json",
+    "senderEmail": "brothers3448@gmail.com"
+    
+}
